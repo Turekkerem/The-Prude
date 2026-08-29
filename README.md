@@ -7,9 +7,7 @@
 </p>
 
 
-<div style="border: 3px solid red; padding: 15px; background-color: #ffe6e6; color: #990000; font-weight: bold; text-align: center;">
-WARNING: DO NOT RUN THIS SOFTWARE ON ANY SYSTEM WITHOUT EXPLICIT PERMISSION AND AUTHORIZATION. UNAUTHORIZED USE, DEPLOYMENT, OR INTERCEPTION OF SYSTEM CONTROLS MAY VIOLATE APPLICABLE LAWS AND SECURITY POLICIES.
-</div>
+
 
 # Prude
 
@@ -38,3 +36,6 @@ To compile the project cleanly using GNU C++ (MinGW) on Windows, execute the fol
 ```bash
 g++ helper.cpp -o helper.exe -mwindows # you dont have to: (-lpsapi)
 ```
+<div style="border: 3px solid red; padding: 15px; background-color: #ffe6e6; color: #990000; font-weight: bold; text-align: center;">
+WARNING: DO NOT RUN THIS SOFTWARE ON ANY SYSTEM WITHOUT EXPLICIT PERMISSION AND AUTHORIZATION. UNAUTHORIZED USE, DEPLOYMENT, OR INTERCEPTION OF SYSTEM CONTROLS MAY VIOLATE APPLICABLE LAWS AND SECURITY POLICIES.
+</div>
