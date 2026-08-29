@@ -41,5 +41,5 @@ WARNING: DO NOT RUN THIS SOFTWARE ON ANY SYSTEM WITHOUT EXPLICIT PERMISSION AND 
 </div>
 <blockquote style="border-left: 4px solid #ff4d4d; padding-left: 15px; color: #d6d6d6; background-color: #1a1a1a; padding: 15px; border-radius: 4px; font-family: sans-serif; margin: 20px 0;">
     <p style="margin: 0; font-style: italic;">&ldquo;Yes, I used AI to generate these keywords&mdash;unfortunately (or fortunately!), I don't have the memory or the 'experience' to list this many terms off the top of my head.&rdquo;</p>
-    <p style="margin: 10px 0 0 0; font-weight: bold; color: #ff6b6b; font-style: normal;">&mdash; a Ty byś potrafił?</p>
+    <p style="margin: 10px 0 0 0; font-weight: bold; color: #ff6b6b; font-style: normal;">&mdash; Could you?</p>
 </blockquote>
