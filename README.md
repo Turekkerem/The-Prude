@@ -29,7 +29,6 @@ Developing a low-level background sentinel entirely in native C++ using the Win3
 * **Intentionally Omitted Persistence:** Prude deliberately lacks any form of automated persistence or registry-based autostart mechanisms. It is intentionally designed as an ad-hoc companion helper—launched manually when you realize you are stepping away and wish to secure your environment temporarily. 
 
 *(Historical footnote: Early developmental variants famously combined a strict numeric-only input style (`ES_NUMBER`) with a text password like "Adam", leading to amusingly locked-out troubleshooting sessions. Modern iterations feature standard text boxes coupled with `ES_PASSWORD`, masking input securely behind asterisks so wandering eyes remain completely clueless.)*
-<img width="888" height="383" alt="Zrzut ekranu 2026-08-29 152408" src="https://github.com/user-attachments/assets/ed8388a6-5877-4dba-9b6a-d00074f27972" />
 <img width="662" height="427" alt="Zrzut ekranu 2026-08-29 152046" src="https://github.com/user-attachments/assets/5cbcd72c-bfa3-420f-93d6-2bb99f87804c" />
 <img width="888" height="383" alt="Zrzut ekranu 2026-08-29 152408" src="https://github.com/user-attachments/assets/fbb570e5-3fb6-4ce2-a6c5-1477c9c7d2b3" />
 <img width="572" height="441" alt="Zrzut ekranu 2026-08-29 152254" src="https://github.com/user-attachments/assets/2266eb03-b04e-49ec-ab5a-ed97c1bf8b19" />
